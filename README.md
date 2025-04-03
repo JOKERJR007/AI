@@ -44,12 +44,27 @@ pip install numpy matplotlib networkx gym
 
   Applied to Ant Maze and Frozen Lake for efficient pathfinding.
 
+**PDF Documents**
+
+Solving Frozen Lake & Ant Maze Challenges with.pdf
+
+  * Describes implementations of the Branch and Bound and IDA* algorithms for solving Frozen Lake and Ant Maze problems.
+
+  * Provides theoretical background, implementation details, and performance analysis.
+
+Solving Travelling Salesman Problem with HC & SA.pdf
+
+  * Explains the application of Hill Climbing and Simulated Annealing to solve the TSP.
+
+  * Includes algorithm steps, heuristic functions, performance analysis, and best routes found.
+    
 **Usage and Applications**
+
 Traveling Salesman Problem (TSP): Find the shortest path connecting multiple cities.
 
-  Ant Maze Navigation: Simulates an ant finding the shortest path through a maze.
+Ant Maze Navigation: Simulates an ant finding the shortest path through a maze.
 
 Frozen Lake Problem: Pathfinding on a slippery grid world.
 
-  Contributions and suggestions are welcome!
+**Contributions and suggestions are welcome!**
 
