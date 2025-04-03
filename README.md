@@ -1,8 +1,8 @@
-Optimization and Pathfinding Algorithms
+**Optimization and Pathfinding Algorithms**
 
 This repository contains Jupyter Notebook implementations of various optimization and pathfinding algorithms, including Simulated Annealing, Hill Climbing, Branch & Bound, and Iterative Deepening A*. These algorithms are applied to problems such as the Traveling Salesman Problem (TSP), Ant Maze Navigation, and the Frozen Lake problem.
 
-Contents
+**Contents**
 1. Traveling Salesman Problem (TSP)
   TSP SA.ipynb → Solves TSP using Simulated Annealing.
 
@@ -18,12 +18,12 @@ Contents
 
   Frozen Lake B&B.ipynb → Solves Frozen Lake using Branch & Bound.
 
-Requirements
+## Requirements
 Ensure you have the following Python libraries installed:
 
 pip install numpy matplotlib networkx gym
 
-Descriptions of the Algorithms
+**Descriptions of the Algorithms**
 1. Simulated Annealing (SA)
   A probabilistic technique for approximating the global optimum of a function.
 
@@ -44,7 +44,7 @@ Descriptions of the Algorithms
 
   Applied to Ant Maze and Frozen Lake for efficient pathfinding.
 
-Usage and Applications
+**Usage and Applications**
 Traveling Salesman Problem (TSP): Find the shortest path connecting multiple cities.
 
   Ant Maze Navigation: Simulates an ant finding the shortest path through a maze.
